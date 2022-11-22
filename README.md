@@ -12,6 +12,7 @@ pull request
 5. and take pull
 
 #upload repo on bitbucket
+
 In the Android studio, go to VCS-> 'Enable version control'.
 From dropdown menu select Git, then click OK.
 
